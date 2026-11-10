@@ -1,1 +1,1 @@
-this student project management
+Project Name: Student Registration
