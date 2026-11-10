@@ -1,0 +1,16 @@
+
+body {
+    text-align: center;
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
