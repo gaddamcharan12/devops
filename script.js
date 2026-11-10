@@ -13,10 +13,19 @@ function addStudent() {
         alert("Student Added Successfully");
     }
 }
+<<<<<<< HEAD
 function registerStudent() {
     var name = prompt("Enter student name");
 
     if (name != "") {
         alert("Student Registered: " + name);
+=======
+function searchStudent() {
+
+    var name = prompt("Enter student name to search");
+
+    if (name != "") {
+        alert("Searching Student: " + name);
+>>>>>>> search
     }
 }
