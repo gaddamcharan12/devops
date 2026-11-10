@@ -13,3 +13,11 @@ function addStudent() {
         alert("Student Added Successfully");
     }
 }
+function searchStudent() {
+
+    var name = prompt("Enter student name to search");
+
+    if (name != "") {
+        alert("Searching Student: " + name);
+    }
+}
