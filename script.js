@@ -13,3 +13,10 @@ function addStudent() {
         alert("Student Added Successfully");
     }
 }
+function registerStudent() {
+    var name = prompt("Enter student name");
+
+    if (name != "") {
+        alert("Student Registered: " + name);
+    }
+}
